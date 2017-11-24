@@ -1,0 +1,93 @@
+Subject :ELU[605] Soumission PR 
+
+Bonjour,
+Nom Prenom: Kwitonda Jean Felix
+URL du Compte github:https://github.com/felixkwitonda
+Nom du projet: Eclipse
+
+url des pull requests:
+https://github.com/eclipse/eclipse.jdt.core/pull/9
+https://github.com/eclipse/jgit/pull/29 
+https://github.com/eclipse/jgit/pull/22
+
+
+Cordialement,
+
+                                               Study of the Projet’’eclipse (IDE)’’
+
+HISTOIRE
+Eclipse is generally a community for individuals and organizations who wish to collaborate on commercially-friendly open source software. Its projects are focused on building an open development platform comprised of extensible frameworks, tools and runtimes for building, deploying and managing software across the lifecycle.[1].
+Eclipse as IDE is one of many projects gouvrned managed by foundation called Eclipse foundation which is a not-for-profit, member supported corporation that hosts the Eclipse projects and helps cultivate both an open source community and an ecosystem of complementary products and services. [2]
+
+The Eclipse as IDE was originally created by IBM in November 2001[16  years ago] and supported by a consortium of software vendors.[1]
+Industry leaders Borland, IBM, MERANT, QNX Software Systems, Rational Software, Red Hat, SuSE, TogetherSoft and Webgain formed the initial eclipse.org Board of Stewards in November 2001. By the end of 2003, this initial consortium had grown to over 80 members.[1]
+On Feb 2, 2004 the Eclipse Board of Stewards announced Eclipse’s reorganization into a not-for-profit corporation ,’’ Eclipse foundation’’. Originally a consortium that formed when IBM released the Eclipse Platform into Open Source, Eclipse became an independent body that will drive the platform’s evolution to benefit the providers of software development offerings and end-users. All technology and source code provided to and developed by this fast-growing community is made available royalty-free via the Eclipse Public License.[1]
+Eclipse as IDE is defined as is an Integrated Development Enviroment(IDE) used in computer programming. It contains a base workspace and an extensible plugin-in system for customizing the environment. Eclipse is written  mostly in java and its primary use is for developing java application,but plugins other programming langages(like Ada,C,C++,C#,Javascript,PHP and many others) may also  be used to develop applications.[3] it is widely used java IDE.[4]
+
+All IT infrastructure servises for the Eclipse open source community, like Git code repositories, Bugzilla databases, development oriented mailing lists and forums, download site and web site are managed by Eclipse foundation.
+
+EGOUVERNANCE5]
+
+Eclipse Foundation’s basic governance is laid out and  well detailed in published documents on their site , The document are as follow :  
+
+Bylaws: The Bylaws lay out the basic rules of governance of the Eclipse Foundation. 
+This is the composition of all principles,ariticles and rules followed and respected by all eclipse foundation. It is composed by 11 ARTICLES.  
+Membership Agreement:The Membership Agreement describes the rights and responsibilities for each class of member in the Eclipse Foundation. 
+Intellectual Property Policy:The IP Policy describes the policies and mechanisms that the Eclipse Foundation uses for accepting and licensing the intellectual property developed by Eclipse projects. 
+Anti-Trust Policy:The Anti-Trust Compliance Policy describes the code of conduct required by all Eclipse Foundation Members to ensure compliance with anti-trust laws. 
+EPL (Eclipse Public License):The Eclipse Public License is the software license used by all Eclipse projects.
+Development Process: This document describes the fundamental rules for creating and governing projects at the Eclipse community. 
+Quick and Fun Process Prose: A quick overview of the development and IP processes in cartoons and other forms. 
+
+CONTRIBUTION MECHANISM [6]
+
+As Eclipse Ide is governed by Eclipse Foundation, Each contribution to Eclipse Ide and to any other Eclipse project is governed by the Foundation . To make intellectual property contributions to Eclipse Foundation project now  and in future, it required to agree to Eclipse Contributor Agreement (ECA) or Contributor Licence Agreement(CLA).The Eclipse Contributor Agreement is a key document in the process of managing intellectual property contributions to Eclipse projects.
+
+By Eclipse , Contribution shall mean any original work of authorship, including any modifications or additions to an existing work, that is submitted by You to the Eclipse Foundation for inclusion in, or documentation of, any of the Eclipse Foundation projects. 
+ This agreement applies to all Contributions You Submit.
+
+When you contribute to Eclipse Foundation Projects, The ECA and the Licences associated with This projects, provides a licence to your contributions  to the Eclipse Foundation and downstream consumers, but You still own Your Contributions, and except for the licenses provided for in this ECA, You reserve all right, title and interest in your Contributions.
+ 
+The Eclipse Fondation require that the contribution submited or which will be submited comply with the other document called Developer Certificate of Origin (DCO). DCO  is basically about the certification of the contributor’s participation in submited contribution.
+Contribution to Eclipse IDE or to other Eclise projects can be   handled via Git,Github, Bugzilla and Gerrit where the Eclipse repositories are usually hosted.[7]
+
+For example, Contribution Process to eclipse project via Gerrit  which is likely used  can be sumerised into five steps :
+1. Clone desired repository
+2.  Modify or add code
+3. Configure Gerrit
+4. Sign CLA
+5. Commit Push to Gerrit
+And for the project repository hosted on Github , it is to issue  the fork to get the repository and copy it to the machine using git clone, continue creating the branch used to make changes using git checkout -b name and then to save the branch with git add and commit , we have also to push our branch  with git push origin branchname and finally we issue  a standard Github pull requet.
+ request . Ensure hat we have an ECA and that the commit record is properly Signed-off-by before issuing the request.
+
+
+
+
+
+
+Some acquired contributions 
+
+Failed contributions
+
+For contribute to every eclipse , it is required to have valid and signed CLA but the pull request of  this contributor has not been even able to pass the eclipse validation.
+
+Two succeded contibutions
+https://github.com/eclipse/jgit/pull/29 
+https://github.com/eclipse/jgit/pull/22
+
+These two contributions shown in figure 1 and 2 on this project have been merged by Hubot into master  branch from stable -4 .2  branch for 1st contribution   and from  stable -4 .3 branch for 2nd
+contribution.
+
+These contributions have been checked and the changes made have accepted.
+
+Bibliography
+
+[1]ABout the Eclipse Foundation,https://www.eclipse.org/org/
+[2]Starting a project at the eclipse foundation,https://www.eclipse.org/community/eclipse_newsletter/2014/july/article2.php     
+[3]Eclipse Software, https://en.wikipedia.org/wiki/Eclipse_(software)    
+[4]IDEs vs.Intellij IDEA&NetBeans users work with Maven,Ant,SBT&Grade,https://zeroturnaround.com/rebellabs/ides-vs-build-tools-how-eclipse-intellij-idea-netbeans-users-work-with-maven-ant-sbt-gradle/       
+[5]Eclipse Foundation Governance Documents,https://www.eclipse.org/org/documents/
+[6]Eclipse Contributor Agreement,https://www.eclipse.org/legal/ECA.php
+[7]http://wiki.eclipse.org/Development_Resources/Contributing_via_Git
+
+   
